@@ -1,0 +1,6 @@
+aiohttp
+watchdog
+tqdm
+instaloader
+praw
+tiktokpy
